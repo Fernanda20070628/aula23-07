@@ -1,5 +1,13 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
 h1{
     color:purple;
+}
+
+h2{
+    color:rgb(146, 52, 68)
 }
 h2{
     margin: 0px
@@ -9,4 +17,8 @@ h2{
     border: solid aquamarine 1px;
     padding:30px;
     margin: 20px;
+}
+.imagem-time{
+    width:100px;
+    margin:10px;
 }
